@@ -1,0 +1,49 @@
+css
+body {
+  font-family: Arial, sans-serif;
+  background: #f8fff8;
+  margin: 0;
+  padding: 0;
+  color: #222;
+}
+
+header {
+  background: #6cbf74;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background: #e8f5e9;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: #2e7d32;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 0 5px #ccc;
+}
+
+img {
+  margin: 10px;
+  border-radius: 8px;
+}
+
+footer {
+  background: #2e7d32;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
