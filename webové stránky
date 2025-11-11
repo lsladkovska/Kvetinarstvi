@@ -1,0 +1,44 @@
+index.html
+<!doctype html>
+<html lang="cs">
+<head>
+  <title>Květinářství U Lípy</title>
+</head>
+<body>
+  <header>
+    <h1>Květinářství U Lípy</h1>
+    <p>Vaše květiny s láskou a péčí</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Domů</a>
+    <a href="page1.html">O nás</a>
+    <a href="page2.html">Nabídka</a>
+    <a href="page3.html">Galerie</a>
+    <a href="page4.html">Kontakt</a>
+  </nav>
+
+  <div class="container">
+    <h2>Vítejte</h2>
+    <p>Květinářství U Lípy je malé rodinné květinářství, které působí ve městě už deset let.
+       Naším cílem je dělat lidem radost pomocí krásných květin a originálních vazeb.
+       Každá kytice je připravena s láskou a důrazem na kvalitu čerstvých květin.</p>
+
+    <p>U nás si vyberete květiny pro každou příležitost — narozeniny, svatby, výročí i běžné dny.
+       Kromě květin nabízíme i malé dárky a dekorace, které potěší vaše blízké.</p>
+
+    <h3>Podstránky</h3>
+    <ul>
+      <li><a href="page1.html">O nás</a></li>
+      <li><a href="page2.html">Nabídka</a></li>
+      <li><a href="page3.html">Galerie</a></li>
+    </ul>
+  </div>
+
+  <footer>
+    © 2025 Květinářství U Lípy
+  </footer>
+</body>
+</html>
+
+
